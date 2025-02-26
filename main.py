@@ -149,7 +149,7 @@ def send_filtered_email(filtered_df: Optional[pd.DataFrame]) -> None:
                 <td style="background-color:#f5f5f5;padding:20px;text-align:center;border-top:1px solid #e0e0e0;">
                     <p style="margin:0 0 10px 0;font-size:12px;color:#666;">Bu liste BIST Katılım Pay Endeksine göre filtrelenmiştir.</p>
                     <p style="margin:0 0 10px 0;font-size:12px;color:#666;">Bu e-posta otomatik olarak gönderilmiştir. Lütfen yanıt vermeyiniz.</p>
-                    <p style="margin:0;font-size:12px;color:#666;">Author: © 2025 by Alper INCE, Edited by: @therkut</p>
+                    <p style="margin:0;font-size:12px;color:#666;">Author: © 2025 by Alper INCE, Edited by: @Magnus Trade</p>
                 </td>
             </tr>
         </tbody>
