@@ -1,8 +1,8 @@
 name: Filter and Send Email Report
 
 on:
-  schedule:
-    - cron: '0 4 * * *'  # UTC 04:00 = Türkiye saati 07:00
+ # schedule:
+   # - cron: '0 4 * * *'  # UTC 04:00 = Türkiye saati 07:00
   workflow_dispatch:  # Manuel çalıştırma seçeneği
 
 jobs:
